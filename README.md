@@ -1,6 +1,6 @@
 # MDT Drivers List Export
 
-Windows command-line utility to to export the drivers list in CSV format.
+Windows command-line utility to export the drivers list in CSV format.
 
 ```
 Usage : mdt-drivers-list-export.exe [-d <directory>] [-o <osname>] [-f <filename>]
